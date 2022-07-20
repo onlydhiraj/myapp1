@@ -1,0 +1,12 @@
+.container{
+    background-color: aqua;
+    margin-top: 25px;
+    /* margin-bottom: 25px; */
+    height: 500px;
+}
+.para{
+    margin-bottom: 10px;
+}
+.heading{
+    padding-top: 10px;
+}

@@ -1,0 +1,26 @@
+.card{
+    /* width: 400px; */
+}
+.card-body{
+    /* text-align: center; */
+}
+.container{
+    /* text-align: center; */
+    margin-left: 40px;
+}
+.display{
+    display: inline;
+    margin-left: 300px;
+    /* align-content: center; */
+    /* align-items: center; */
+}
+.brand{
+    /* font-size: 1.5rem; */
+}
+
+.text-muted{
+    margin-left: 10px;
+}
+.col-xl-10{
+    margin-left: 100px;
+}

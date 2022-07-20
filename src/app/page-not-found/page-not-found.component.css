@@ -1,0 +1,11 @@
+.container{
+    height: 500px;
+}
+.error-template{
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.error-action{
+    padding-top: 15px;
+}

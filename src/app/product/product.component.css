@@ -1,0 +1,29 @@
+.container{
+    background-color: lightslategrey;
+    margin-top: 25px;
+    /* margin-bottom: 25px; */
+    height: 500px;
+    /* width: 400; */
+}
+.para{
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+.heading{
+    padding-top: 10px;
+}
+.col-md-row{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    display: inline-block;
+    margin-left: 28px;
+    margin-top: 5px;
+}
+.row{
+    align-items: center;
+    text-align: center;
+}

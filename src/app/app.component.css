@@ -1,0 +1,12 @@
+.nav-link:hover{
+    color: blue;
+}
+.nav-link::after{
+    background-color: aquamarine;
+    color: blue;
+}
+
+.navbar{
+    position: sticky;
+    
+}

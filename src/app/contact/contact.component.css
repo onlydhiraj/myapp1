@@ -1,0 +1,12 @@
+.container{
+    background-color: goldenrod;
+    margin-top: 25px;
+    /* margin-bottom: 25px; */
+    height: 500px;
+}
+.para{
+    margin-bottom: 10px;
+}
+.heading{
+    padding-top: 10px;
+}
